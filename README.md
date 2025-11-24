@@ -16,6 +16,11 @@ The model predicts a number corresponding to the species:
 Any other number: Unknown species
 
 # To run the program
-- This program requires python >= v3.13.5
-- Installed libraries mentioned in requirements.txt file
-- Run main.py
+Ensure you have the iris.csv file with the Iris dataset.  
+Run the program: python iris_classifier.py.  
+View the model's accuracy percentage.  
+Enter flower measurements when prompted:  
+- Sepal length  
+- Sepal width  
+- Petal length  
+- Petal width  
